@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Cinema\Cinema\bin\Debug\net6.0-windows\Cinema.exe
+C:\Users\User\source\repos\Cinema\Cinema\bin\Debug\net6.0-windows\Cinema.deps.json
+C:\Users\User\source\repos\Cinema\Cinema\bin\Debug\net6.0-windows\Cinema.runtimeconfig.json
+C:\Users\User\source\repos\Cinema\Cinema\bin\Debug\net6.0-windows\Cinema.dll
+C:\Users\User\source\repos\Cinema\Cinema\bin\Debug\net6.0-windows\Cinema.pdb
+C:\Users\User\source\repos\Cinema\Cinema\obj\Debug\net6.0-windows\Cinema.Form1.resources
+C:\Users\User\source\repos\Cinema\Cinema\obj\Debug\net6.0-windows\Cinema.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Cinema\Cinema\obj\Debug\net6.0-windows\Cinema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Cinema\Cinema\obj\Debug\net6.0-windows\Cinema.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Cinema\Cinema\obj\Debug\net6.0-windows\Cinema.AssemblyInfo.cs
+C:\Users\User\source\repos\Cinema\Cinema\obj\Debug\net6.0-windows\Cinema.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Cinema\Cinema\obj\Debug\net6.0-windows\Cinema.dll
+C:\Users\User\source\repos\Cinema\Cinema\obj\Debug\net6.0-windows\refint\Cinema.dll
+C:\Users\User\source\repos\Cinema\Cinema\obj\Debug\net6.0-windows\Cinema.pdb
+C:\Users\User\source\repos\Cinema\Cinema\obj\Debug\net6.0-windows\Cinema.genruntimeconfig.cache
+C:\Users\User\source\repos\Cinema\Cinema\obj\Debug\net6.0-windows\ref\Cinema.dll

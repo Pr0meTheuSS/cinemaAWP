@@ -1,0 +1,57 @@
+<mxfile host="Electron" modified="2023-10-24T07:03:23.937Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.2 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="cH1B8EDgrSfNsMy5m0Bp" version="22.0.2" type="device">
+  <diagram name="Страница — 1" id="q_cHYVxgKCU6bMj5ebTI">
+    <mxGraphModel dx="780" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BGs3icix2L2B6tGLpiUf-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="BGs3icix2L2B6tGLpiUf-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="245" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BGs3icix2L2B6tGLpiUf-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="BGs3icix2L2B6tGLpiUf-1" target="BGs3icix2L2B6tGLpiUf-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BGs3icix2L2B6tGLpiUf-1" value="Оператор АРМ кассира кинотеатра" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="215" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BGs3icix2L2B6tGLpiUf-2" value="Выбор сеанса" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="90" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BGs3icix2L2B6tGLpiUf-28" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BGs3icix2L2B6tGLpiUf-3" target="BGs3icix2L2B6tGLpiUf-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BGs3icix2L2B6tGLpiUf-3" value="Выбор зала" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="590" y="90" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BGs3icix2L2B6tGLpiUf-4" value="Выбор мест для покупателя" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="300" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BGs3icix2L2B6tGLpiUf-30" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="BGs3icix2L2B6tGLpiUf-5" target="BGs3icix2L2B6tGLpiUf-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BGs3icix2L2B6tGLpiUf-5" value="Подтверждение брони" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="590" y="300" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BGs3icix2L2B6tGLpiUf-9" value="АРМ кассира кинотеатра" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=250;height=40;" parent="1" vertex="1">
+          <mxGeometry x="270" y="30" width="500" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="BGs3icix2L2B6tGLpiUf-16" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;&lt;br&gt;cinema hall&lt;/b&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="50" y="490" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BGs3icix2L2B6tGLpiUf-17" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;film session&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="50" y="670" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BGs3icix2L2B6tGLpiUf-18" value="Сущности программной системы" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=300;height=40;" parent="1" vertex="1">
+          <mxGeometry x="40" y="440" width="750" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="BGs3icix2L2B6tGLpiUf-19" value="&lt;b&gt;Кинозал:&lt;/b&gt;&lt;br&gt;&lt;ol&gt;&lt;li&gt;Определяет топологию зала.&lt;/li&gt;&lt;li&gt;Предоставляет интерфейс для работы с изменением состояния мест (занято/свободно).&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/li&gt;&lt;li&gt;Гибко определяет циновую политику (ссылается на методы реализации интерфейса, отвечающего за ценообразование).&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/li&gt;&lt;li&gt;предоставляет возможности сериализации / десериализации данных (выгрузка/загрузка методанных или текущего состояния зала)&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="200" y="490" width="570" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="BGs3icix2L2B6tGLpiUf-20" value="&lt;b&gt;Сеанс:&lt;/b&gt;&lt;br&gt;&lt;ol&gt;&lt;li&gt;Ссылается на кинозал проведения показа.&lt;/li&gt;&lt;li&gt;предоставляет возможности сериализации / десериализации данных.&lt;/li&gt;&lt;li&gt;Реализует интерфейс юзкейсов пользователя.&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="200" y="635" width="570" height="130" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
